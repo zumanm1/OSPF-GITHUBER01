@@ -1,0 +1,10 @@
+This is a dummy text file for testing purposes.
+
+The secret word we will be searching for later is: SEARCHME
+
+Here is some additional content to make the file more realistic:
+- Line one with random text
+- Line two with more content
+- Line three mentioning SEARCHME again
+
+End of dummy file.
