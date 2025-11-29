@@ -7,4 +7,8 @@ Here is some additional content to make the file more realistic:
 - Line two with more content
 - Line three mentioning SEARCHME again
 
+The quick brown fox jumps over the lazy dog.
+Programming is the art of telling a computer what to do.
+Every great developer was once a beginner who never gave up.
+
 End of dummy file.
